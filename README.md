@@ -1,16 +1,14 @@
-## Hi there 👋
+<html>
+  <h1>WELCOME TO MY PROFILE !</h1>
+</html>
 
-<!--
-**Engineer-nikhilkumar-151209/Engineer-nikhilkumar-151209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a senior secondary high school student
+- 🌱 I’m intrested in AI development and quantum tech 
+- 👯 I’m looking to collaborate with top tech companies 
+- 🤔 I’m looking for help with right guidance
+- find me on instagram <html>
+    <a href=https://www.instagram.com/thedhavaleswarapu> @thedhavaleswarapu </a>
+  </html>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
