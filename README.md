@@ -8,6 +8,9 @@
 - 🤔 I’m looking for help with right guidance
 - find me on instagram <html>
     <a href=https://www.instagram.com/thedhavaleswarapu> @thedhavaleswarapu </a>
+
+- find me on instagram <html>
+    <a href=https://x.com/_dhavaleswarapu> _dhavaleswarapu </a>
   </html>
 
 
