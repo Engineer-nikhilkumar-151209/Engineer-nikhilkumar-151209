@@ -10,7 +10,7 @@
     <a href=https://www.instagram.com/thedhavaleswarapu> @thedhavaleswarapu </a>
 
 - find me on instagram <html>
-    <a href=https://x.com/_dhavaleswarapu> _dhavaleswarapu </a>
+    <a href=https://x.com/_dhavaleswarapu> @_dhavaleswarapu </a>
   </html>
 
 
