@@ -59,7 +59,7 @@ I am a passionate **17-year-old student** from India, deeply driven by problem-s
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40thedhavaleswarapu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedhavaleswarapu?igsh=MWc0cmN6ZXpnODJ0MA==)
-[![GitHub](https://img.shields.io/badge/GitHub-Engineer--nikhilkumar--151209-181717?style=for-the-badge&logo=github&logo color=white)](https://github.com/Engineer-nikhilkumar-151209)
+[![GitHub](https://img.shields.io/badge/GitHub-Engineer--nikhilkumar--151209-181717?style=for-the-badge&logo=github)](https://github.com/Engineer-nikhilkumar-151209)
 
 ---
 
