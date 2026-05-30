@@ -56,15 +56,6 @@ I am a passionate **17-year-old student** from India, deeply driven by problem-s
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engineer-nikhilkumar-151209&show_icons=true&theme=radical&hide_border=true" alt="Nikhil's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-nikhilkumar-151209&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40thedhavaleswarapu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedhavaleswarapu?igsh=MWc0cmN6ZXpnODJ0MA==)
@@ -74,6 +65,6 @@ I am a passionate **17-year-old student** from India, deeply driven by problem-s
 
 <div align="center">
 
-*© Nikhil Kumar Dhavaleshwarapu — Vizianagaram, Andhra Pradesh, India 🇮🇳*
+*© Nikhil Kumar Dhavaleshwarapu(KAI LABS) — Vizianagaram, Andhra Pradesh, India 🇮🇳*
 
 </div>
