@@ -8,7 +8,7 @@
 
 # Nikhil Kumar Dhavaleshwarapu
 
-### 🚀 Aspiring Computer Science Engineer & Tech Enthusiast
+### 🚀 Aspiring Computer Science Engineer & Tech Enthusiast,founder Kaleidoscopic artificial intelligence laboratories (KAI LABS)
 
 [![Location](https://img.shields.io/badge/Location-Vizianagaram,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Engineer-nikhilkumar-151209)
 [![Status](https://img.shields.io/badge/Status-JEE%20Aspirant%20%7C%20Student-orange?style=flat-square)](https://github.com/Engineer-nikhilkumar-151209)
