@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════╗
-║ 💫 Hello, World! I'm Nikhil Kumar 💫      
+  💫 Hello, World! I'm Nikhil Kumar 💫      
 ╚═══════════════════════════════╝
 ```
 
